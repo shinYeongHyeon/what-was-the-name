@@ -2,6 +2,9 @@
 
 그거 이름이 뭐더라....
 
+## Almost common
+* [const yesOrNo = true ? "yes" : "no"](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Conditional_Operator): 삼항 연산자 (ternary operator)
+
 ## Javascript
 * [const { name, age } = person](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) : 구조 분해 할당 (Destructure assignment)
 * [...](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax) : 전개 구문 (Spread operator)
