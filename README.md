@@ -3,7 +3,7 @@
 그거 이름이 뭐더라....
 
 ## Javascript
-* [...](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) : 구조 분해 할당 (Destructure assignment)
+* [const { name, age } = person](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) : 구조 분해 할당 (Destructure assignment)
 * [...](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax) : 전개 구문 (Spread operator)
 * [...](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/rest_parameters) : Rest parameters  
 > [destructure assignment vs Spread operator vs Rest parameters](https://www.digitalocean.com/community/tutorials/understanding-destructuring-rest-parameters-and-spread-syntax-in-javascript)
