@@ -1,8 +1,6 @@
 # what-was-the-name
 
-문법의 이름을 모를때가 있다.  
-정리해두자.  
-*문법의 설명을 디테일하게 하진 않는다* 
+그거 이름이 뭐더라....
 
 ## Javascript
 * [...](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) : 구조 분해 할당 (Destructure assignment)
