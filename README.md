@@ -14,6 +14,7 @@
 * [~~](https://den-shin.tistory.com/44?category=964367) : Double tilde operator
 * [?](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Optional_chaining) : Optional channing
 * [??](https://ko.javascript.info/nullish-coalescing-operator) : nullish 병합 연산자 (Nullish coalescing operator)
+* [``](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals) : Template literals
 
 ## Typescript
 * [[key: string]](https://den-shin.tistory.com/6?category=964286) : 색인 가능 타입 (Indexable)
