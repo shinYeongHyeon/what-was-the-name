@@ -18,3 +18,6 @@
 
 ## Typescript
 * [[key: string]](https://den-shin.tistory.com/6?category=964286) : 색인 가능 타입 (Indexable)
+
+## Svelte
+* [$:](https://svelte.dev/tutorial/reactive-statements) : Reactive statement
