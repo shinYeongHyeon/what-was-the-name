@@ -22,3 +22,4 @@
 
 ## Svelte
 * [$:](https://svelte.dev/tutorial/reactive-statements) : Reactive statement
+* [slot](https://svelte.dev/tutorial/slots) : 자식요소를 채울 수 있게 해주는 아이
