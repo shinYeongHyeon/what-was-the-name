@@ -21,6 +21,9 @@
 ## Typescript
 * [[key: string]](https://den-shin.tistory.com/6?category=964286) : 색인 가능 타입 (Indexable)
 
+## React
+* [<>](https://ko.reactjs.org/docs/fragments.html) : React Fragment 단축 문법
+
 ## Svelte
 * [$:](https://svelte.dev/tutorial/reactive-statements) : Reactive statement
 * [slot](https://svelte.dev/tutorial/slots) : 자식요소를 채울 수 있게 해주는 아이
