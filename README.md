@@ -28,5 +28,8 @@
 * [$:](https://svelte.dev/tutorial/reactive-statements) : Reactive statement
 * [slot](https://svelte.dev/tutorial/slots) : 자식요소를 채울 수 있게 해주는 아이
 
+## CSS
+* [property: value](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax) : CSS 에서 `border: 1px solid red` 와 같이 property와 value 를 함께 일컫는 말이 **declaration** 
+
 ## MySQL
 * [@](https://dev.mysql.com/doc/refman/8.0/en/user-variables.html) : User-Defined variables
