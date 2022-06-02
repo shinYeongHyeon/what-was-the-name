@@ -17,7 +17,7 @@
 * [??](https://ko.javascript.info/nullish-coalescing-operator) : nullish 병합 연산자 (Nullish coalescing operator)
 * [``](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals) : Template literals
 * [**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation) : 거듭제곱 (Exponentiation)  
-* [!!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT#double_not_!!) : Double not ()  
+* [!!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT#double_not_!!) : Double not 
 
 ## Typescript
 * [[key: string]](https://den-shin.tistory.com/6?category=964286) : 색인 가능 타입 (Indexable)
