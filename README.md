@@ -18,7 +18,7 @@
 * [``](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals) : Template literals
 * [**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation) : 거듭제곱 (Exponentiation)  
 * [!!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT#double_not_!!) : Double not 
-* [const test = { a, b, c}](https://attacomsian.com/blog/javascript-object-property-shorthand): Property shorthand  
+* [const test = { a, b, c }](https://attacomsian.com/blog/javascript-object-property-shorthand): Property shorthand  
 
 ## Typescript
 * [[key: string]](https://den-shin.tistory.com/6?category=964286) : 색인 가능 타입 (Indexable)
