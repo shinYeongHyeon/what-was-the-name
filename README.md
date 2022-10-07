@@ -35,3 +35,11 @@
 
 ## MySQL
 * [@](https://dev.mysql.com/doc/refman/8.0/en/user-variables.html) : User-Defined variables
+
+--
+
+## ETC
+### cruft
+> 코드에 남아있는 중복되고 방해되는 모드 것을 의미한 용어 (불필요한 복잡성). 기능적으로 문제가 있는 요소를 가리키는데 사용
+
+
