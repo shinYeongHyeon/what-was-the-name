@@ -1,6 +1,8 @@
 # what-was-the-name
 
-그거 이름이 뭐더라....
+그거 이름이 뭐더라....  
+
+_[PM 버전 바로가기 👉](./product.md)_
 
 ## Almost common
 * [const yesOrNo = true ? "yes" : "no"](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Conditional_Operator): 삼항 연산자 (ternary operator)
